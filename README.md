@@ -2,5 +2,5 @@
 ansible-base installed
 user:ansible
 password:ansible
-上記で一通り動かせるようにしています。
+にて一通り動かせるようにしています。
 公開鍵認証回りは未実施です。
